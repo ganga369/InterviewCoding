@@ -1,0 +1,36 @@
+﻿Build started 4/18/2016 12:30:06 AM.
+     1>Project "C:\Personal\GIT\Projects\InterviewCoding\SquareRoot\SquareRoot.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SQUAREROOT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CodeSamples.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SQUAREROOT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CodeSamples.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AddTwoLinkedLists.cpp BinaryTree.cpp FlattenBSTToDLL.cpp Permutation.cpp ReverseLinkedList.cpp SinglyLinkedList.cpp SquareRoot.cpp Subsequence.cpp
+         Subsequence.cpp
+         SquareRoot.cpp
+         SinglyLinkedList.cpp
+         ReverseLinkedList.cpp
+         Permutation.cpp
+     1>c:\personal\git\projects\interviewcoding\squareroot\permutation.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+         FlattenBSTToDLL.cpp
+         BinaryTree.cpp
+         AddTwoLinkedLists.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SQUAREROOT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.lib" /MACHINE:X86 /DLL Debug\AddTwoLinkedLists.obj
+         Debug\BinaryTree.obj
+         Debug\dllmain.obj
+         Debug\FlattenBSTToDLL.obj
+         Debug\Permutation.obj
+         Debug\ReverseLinkedList.obj
+         Debug\SinglyLinkedList.obj
+         Debug\SquareRoot.obj
+         Debug\stdafx.obj
+         Debug\Subsequence.obj
+            Creating library C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.lib and object C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.exp
+         SquareRoot.vcxproj -> C:\Personal\GIT\Projects\InterviewCoding\Debug\CodeSamples.dll
+     1>Done Building Project "C:\Personal\GIT\Projects\InterviewCoding\SquareRoot\SquareRoot.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.97
