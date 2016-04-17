@@ -21,6 +21,6 @@ REVERSE_LINKEDLIST_API void ReverseLinkedList(SinglyLinkedList** ppList)
         pCurrentNode = pNextNode;
     }
 
-    // New Head of the node
+    // New head of the node
     *ppList = pPrevNode;
 }
