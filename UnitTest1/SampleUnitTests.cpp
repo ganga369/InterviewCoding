@@ -49,33 +49,7 @@ namespace UnitTest
 		return outputVec;
 	}
 	TEST_CLASS(UnitTest12)
-	{		
-        /*
-        TEST_METHOD(TestMethod1)
-        {
-            Assert::AreEqual(1, 0);
-        }
-
-        TEST_METHOD(TestMethod2)
-        {
-            CSquareRoot s;
-            Assert::AreEqual(0.0, s.GetSquareRoot(25));
-        }
-
-        TEST_METHOD(TestMethod3)
-        {
-            CSquareRoot s;            
-            Assert::AreEqual(1.0, s.GetSquareRoot(25));
-        }
-
-        TEST_METHOD(TestMethod4)
-        {
-            CSquareRoot s;
-            Assert::AreEqual(1.0, (double)fnSquareRoot());
-        }
-
-        */
-
+	{		     
 	public:
 
 		TEST_METHOD(TestMethod1)
